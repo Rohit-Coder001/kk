@@ -76,5 +76,13 @@ transition: background-color 0.2s ease-in-out;/* Change the background color of 
   /* Make the table take up the full width of the screen */
   table {
     width: 100% ;
+    font-size: xx-large ;
+  }
+  tr:first-child td{
+    font-size: xx-large;
+  }
+  *{
+    font-size: xx-large ;
   }
 }
+
