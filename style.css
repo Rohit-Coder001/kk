@@ -72,3 +72,9 @@ transform: scale(1.05);
 
 transition: background-color 0.2s ease-in-out;/* Change the background color of the button on hover to #e6a900 */
 }
+@media screen and (max-device-width: 800px) {
+  /* Make the table take up the full width of the screen */
+  table {
+    width: 100% ;
+  }
+}
