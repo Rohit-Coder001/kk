@@ -84,5 +84,15 @@ transition: background-color 0.2s ease-in-out;/* Change the background color of 
   *{
     font-size: xx-large ;
   }
+  input[type="search"]{
+    display: none;
+  }
+  button[type="submit"]{
+    display: none;
+  }
+  nav a{
+    margin: auto;
+  }
+
 }
 
